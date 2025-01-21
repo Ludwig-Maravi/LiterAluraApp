@@ -1,0 +1,14 @@
+com\bibliotecadigital\librosapps\Modelo\Autor.class
+com\bibliotecadigital\librosapps\Modelo\Datos.class
+com\bibliotecadigital\librosapps\Servicio\ConsumoApi.class
+com\bibliotecadigital\librosapps\LibrosappsApplication.class
+com\bibliotecadigital\librosapps\Servicio\IConvierteDatos.class
+com\bibliotecadigital\librosapps\Repositorio\AutorRepositorio.class
+com\bibliotecadigital\librosapps\Modelo\DatosAutor.class
+com\bibliotecadigital\librosapps\Servicio\DatosServicio.class
+com\bibliotecadigital\librosapps\Servicio\ConvierteDatos.class
+com\bibliotecadigital\librosapps\Modelo\DatosLibro.class
+com\bibliotecadigital\librosapps\Modelo\Libro.class
+com\bibliotecadigital\librosapps\Repositorio\LibroRepositorio.class
+com\bibliotecadigital\librosapps\Modelo\Idiomas.class
+com\bibliotecadigital\librosapps\Principal\Principal.class
