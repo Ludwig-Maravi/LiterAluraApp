@@ -1,6 +1,8 @@
 # 📚 LiterAluraApp
+![badge literalura](https://github.com/user-attachments/assets/f3faace5-8ddc-4dbd-9e62-fa583a47bbe1)
 
-## ¡Bienvenido a LiterAlura, la App de Búsqueda de Libros! 📖
+
+## ¡Bienvenido a LiterAlura App de Búsqueda de Libros! 📖
 
 **LiterAlura** es una herramienta diseñada para brindarte acceso rápido y seguro a una extensa base de datos de libros de dominio público. Aprovechando la API de **Gutendex**, la aplicación te permite buscar, explorar y gestionar títulos de manera sencilla, en tiempo real.
 
@@ -30,6 +32,7 @@ El objetivo de **LiterAlura** es proporcionar una herramienta sencilla, eficient
 - **Almacenamiento en base de datos**: Los resultados obtenidos de la API se guardan en una base de datos **PostgreSQL**, lo que permite una gestión y consulta más eficiente.
 - **Exploración de libros**: Filtra los resultados por autor, idioma y más, para una experiencia más personalizada.
 - **Consulta de detalles**: Obtén información detallada sobre cada libro, como título, autor, fecha de publicación y más.
+![IMG01](https://github.com/user-attachments/assets/04cf9974-5ccd-4eaf-b77d-58df45b30130)
 
 ---
 
@@ -74,4 +77,4 @@ Accesde a la aplicacion con su IDE para comenzar a usar la app.
 
 ## 📧 Contacto
 
-Para cualquier duda o sugerencia, puedes contactarme a través de mi [correo electrónico](mailto:tu-email@dominio.com) o en las redes sociales.
+Para cualquier duda o sugerencia, puedes contactarme.
